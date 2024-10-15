@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thefeated&label=Profile%20views&color=0e75b6&style=flat" alt="thefeated" /> </p>
 
-- 🔭 I'm currently working on [my portfolio website](https://mv-system.great-site.net/)
+- 🔭 I'm currently working on [MediKeep](https://jeanvergel.lovestoblog.com/)
 - 🌱 I'm currently learning **Laravel**
 - 👯 I'm looking to collaborate on web development projects
 - 🤝 I'm open to feedback and suggestions for my portfolio
@@ -36,6 +36,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefeated&show_icons=true&locale=en&layout=compact" alt="thefeated" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefeated&show_icons=true&locale=en" alt="thefeated" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefeated&show_icons=true&locale=en&count_private=true" alt="thefeated" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefeated&" alt="thefeated" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thefeated&theme=default" alt="thefeated" /></p>
